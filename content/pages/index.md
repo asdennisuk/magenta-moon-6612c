@@ -41,7 +41,7 @@ seo:
     - name: 'og:description'
       value: >-
         Join Pete and Andy aka PANDY, on our adventures in the UK and across the
-        globe
+        globe.
       keyName: property
     - name: 'og:image'
       value: /images/elite-owl.jpg
