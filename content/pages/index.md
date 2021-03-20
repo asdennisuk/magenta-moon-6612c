@@ -50,7 +50,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: 'MTB, Cycling and The Great Outdoors'
     - name: 'twitter:description'
       value: >-
         Join Pete and Andy aka PANDY, on our adventures in the UK and across the
