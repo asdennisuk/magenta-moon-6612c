@@ -56,7 +56,7 @@ seo:
         Join Pete and Andy aka PANDY, on our adventures in the UK and across the
         globe
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/elite-owl.jpg
       relativeUrl: true
 layout: advanced
 ---
