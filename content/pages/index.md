@@ -39,7 +39,9 @@ seo:
       value: 'MTB, Cycling and The Great Outdoors'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: >-
+        Join Pete and Andy aka PANDY, on our adventures in the UK and across the
+        globe
       keyName: property
     - name: 'og:image'
       value: /images/elite-owl.jpg
