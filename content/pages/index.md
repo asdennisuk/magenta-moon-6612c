@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: 'MTB, Cycling and The Great Outoors'
-  description: The preview of the Fresh theme
+  description: 'Pete and Andy''s adventures and journeys '
   extra:
     - name: 'og:type'
       value: website
