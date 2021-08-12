@@ -31,6 +31,11 @@ sections:
       - label: View Blog
         url: blog/index.html
         style: button
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
 seo:
   title: 'MTB, Cycling and The Great Outoors'
   description: 'Pete and Andy''s adventures and journeys '
