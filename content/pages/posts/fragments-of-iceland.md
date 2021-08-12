@@ -3,7 +3,6 @@ title: Fragments of Iceland
 excerpt: >-
   https://www.komoot.com/tour/330471296?share_token=aUAwGjl7WUrqQuZwUeFl20W2o3aK2EgprbomdZiK1S5RC9x68X&ref=wtd
 date: '2019-03-27'
-thumb_img_path: images/7.jpg
 thumb_img_alt: Icelandic horses
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
