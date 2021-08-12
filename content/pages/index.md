@@ -9,7 +9,7 @@ sections:
       We are Pete and Andy. Two long term  friends, mountain bikers, and general
       trash talkers. Always there to help at events around Swinley Forest. A
       while ago the term PANDY was conceived as we always rode and helped at
-      events together and its stuck…
+      events together and its stuck… like stans to your frame..
   - section_id: about
     type: section_content
     title: About
